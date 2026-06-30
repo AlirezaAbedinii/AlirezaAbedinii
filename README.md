@@ -38,6 +38,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -75,7 +76,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -95,27 +95,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=AlirezaAbedinii&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
-
-</div>
-
-<br>
-
-<!-- ===================== CONTRIBUTION STUFF (preview — keep what you like) ===================== -->
-<!-- PREVIEW THESE TWO, THEN DELETE WHICHEVER YOU DON'T WANT. -->
-
-## 🔥 Commit Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaAbedinii&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaAbedinii&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true" alt="Activity Graph" width="95%" />
 
 </div>
 
