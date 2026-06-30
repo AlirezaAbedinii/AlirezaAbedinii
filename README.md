@@ -82,21 +82,19 @@
 
 <br>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+<!-- ===================== FEATURED RESEARCH & PROJECTS ===================== -->
+## 🔬 Featured Research & Projects
 
-<div align="center">
+**PRISM — Model-Family-Aware Partitioning & Multi-SLO Batching** &nbsp;`research · in progress`
+> Heterogeneous serverless inference: partitioning model families and batching requests under multiple latency SLOs to drive down cost while holding tail latency. Conducted at **[PACS Lab](https://github.com/pacslab)**, York University.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlirezaAbedinii&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAbedinii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7" alt="Top Languages" />
+**PAMBA — Partition-Aware and Multi-SLO Batching for Serverless Inference** &nbsp;`SoCC 2026 · under review`
+> Profiling-driven optimization of serverless ML inference. Cut per-request inference cost by up to **31.9%** and reduced tail-latency SLO violations from **4.36% → 1.09%**; lowered peak per-function memory by **40%** via partitioned execution.
 
-</div>
+**RAG Service** &nbsp;`Python · FastAPI · ChromaDB`
+> Retrieval-augmented generation service with hybrid retrieval (dense + BM25 → RRF → rerank), an LLM-as-judge evaluation harness, and latency/cost instrumentation. Containerized with docker-compose.
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlirezaAbedinii&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
-
-</div>
+<sub>📌 See the **pinned repositories** below for code.</sub>
 
 <br>
 
