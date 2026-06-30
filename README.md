@@ -82,22 +82,6 @@
 
 <br>
 
-<!-- ===================== FEATURED RESEARCH & PROJECTS ===================== -->
-## 🔬 Featured Research & Projects
-
-**PRISM — Model-Family-Aware Partitioning & Multi-SLO Batching** &nbsp;`research · in progress`
-> Heterogeneous serverless inference: partitioning model families and batching requests under multiple latency SLOs to drive down cost while holding tail latency. Conducted at **[PACS Lab](https://github.com/pacslab)**, York University.
-
-**PAMBA — Partition-Aware and Multi-SLO Batching for Serverless Inference** &nbsp;`SoCC 2026 · under review`
-> Profiling-driven optimization of serverless ML inference. Cut per-request inference cost by up to **31.9%** and reduced tail-latency SLO violations from **4.36% → 1.09%**; lowered peak per-function memory by **40%** via partitioned execution.
-
-**RAG Service** &nbsp;`Python · FastAPI · ChromaDB`
-> Retrieval-augmented generation service with hybrid retrieval (dense + BM25 → RRF → rerank), an LLM-as-judge evaluation harness, and latency/cost instrumentation. Containerized with docker-compose.
-
-<sub>📌 See the **pinned repositories** below for code.</sub>
-
-<br>
-
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect With Me
 
