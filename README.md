@@ -32,12 +32,8 @@
   <img src="https://skillicons.dev/icons?i=py,java,cpp,bash" alt="Python, Java, C++, Bash" />
 </p>
 <p>
-  <b>ML / DL / LLM</b><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
-</p>
-<p>
-  <b>Agentic AI</b><br>
-  <img src="assets/agentic-ai.svg" alt="LangGraph, Model Context Protocol, Claude" />
+  <b>AI & ML</b><br>
+  <img src="assets/ai-ml.svg" alt="PyTorch, TensorFlow, LangGraph, Model Context Protocol, Claude" />
 </p>
 <p>
   <b>MLOps · Cloud · Observability</b><br>
