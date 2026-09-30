@@ -4,7 +4,7 @@
 <img src="assets/header.svg" width="100%" alt="Alireza Abedini, AI Cloud Platform Engineer" />
 
 <a href="https://github.com/AlirezaAbedinii">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI+Cloud+Platform+Engineer;LLM+Infrastructure+%7C+Agentic+AI;Serverless+Inference+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI+Cloud+Platform+Engineer;AI+Infrastructure+%7C+Agentic+AI;Serverless+Inference+Researcher" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,11 +14,22 @@
 
 - 🎓 **M.Sc. Computer Science** from **York University** (Toronto, ON)
 - 🔬 Research Assistant at **[PACS Lab](https://github.com/pacslab)**, building AI platforms and ML systems for the cloud
-- ☁️ Built **[CAIOS](https://github.com/AlirezaAbedinii/CAIOS)**, a private AI platform on a GPU cluster for research teams
-- 🤖 Building **[Groundwork](https://github.com/AlirezaAbedinii/groundwork-agents)**, a grounded multi-agent research assistant
-- 🔭 Researching **PRISM**: *Model-Family-Aware Partitioning and Multi-SLO Batching for Heterogeneous Serverless Inference*
-- ⚙️ I work at the intersection of **AI infrastructure, LLM serving, and agentic AI**
-- 💬 Ask me about **LLM serving, RAG, multi-agent systems, Kubernetes, and serverless inference**
+- ⚙️ I work at the intersection of **AI infrastructure, cloud platforms, and agentic AI**
+
+<br>
+
+<!-- ===================== RECENT PROJECTS ===================== -->
+## 🚀 Recent Projects
+
+- ☁️ **[CAIOS](https://github.com/AlirezaAbedinii/CAIOS)**: Canadian AI Operating System, a private AI platform for research on a multi-node GPU cluster
+- 🤖 **[Groundwork](https://github.com/AlirezaAbedinii/groundwork-agents)**: a grounded multi-agent research assistant built on LangGraph, MCP, and hybrid RAG
+
+<br>
+
+<!-- ===================== RESEARCH ===================== -->
+## 🔭 Research
+
+- **PAMBA**: *Partition-Aware and Multi-SLO Batching for Serverless Inference on Heterogeneous Clouds* ([MPHB-serverless-inference](https://github.com/AlirezaAbedinii/MPHB-serverless-inference))
 
 <br>
 
@@ -37,10 +48,16 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="PyTorch, TensorFlow, scikit-learn" />
 </p>
 
+**Agentic AI**
+
+<p>
+  <img src="assets/agentic-ai.svg" alt="LangGraph, LangChain, OpenAI, Claude, Model Context Protocol, OpenTelemetry, Pydantic" />
+</p>
+
 **MLOps · Cloud · Observability**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,prometheus,grafana,linux" alt="AWS, Docker, Kubernetes, Ansible, Prometheus, Grafana, Linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,prometheus,grafana,linux" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana, Linux" />
 </p>
 
 **Backend · Data · Tools**
@@ -51,11 +68,15 @@
 
 <br>
 
-<!-- ===================== ACTIVITY ===================== -->
-## 📈 Recent Activity
+<!-- ===================== CONTRIBUTIONS ===================== -->
+## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaAbedinii&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contributions%20over%20the%20last%20month" width="100%" alt="Contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlirezaAbedinii/AlirezaAbedinii/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlirezaAbedinii/AlirezaAbedinii/output/github-snake.svg" />
+    <img alt="Snake animation over my contribution graph" src="https://raw.githubusercontent.com/AlirezaAbedinii/AlirezaAbedinii/output/github-snake.svg" />
+  </picture>
 </p>
 
 <br>

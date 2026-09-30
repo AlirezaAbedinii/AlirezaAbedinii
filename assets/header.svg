@@ -51,7 +51,7 @@
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="64" y="128" font-size="50" font-weight="700" fill="#e6e9f5">Alireza Abedini</text>
     <text x="66" y="172" font-size="24" font-weight="600" fill="url(#accent)">AI Cloud Platform Engineer</text>
-    <text x="66" y="214" font-size="15.5" fill="#9aa5ce" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">AI infrastructure · LLM serving · agentic AI<tspan class="cursor" fill="#7aa2f7"> ▍</tspan></text>
+    <text x="66" y="214" font-size="15.5" fill="#9aa5ce" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">AI infrastructure · cloud platforms · agentic AI<tspan class="cursor" fill="#7aa2f7"> ▍</tspan></text>
   </g>
 
   <g>
@@ -73,13 +73,13 @@
 
     <g text-anchor="middle">
       <rect x="872" y="129" width="136" height="42" rx="10" fill="#18223a" stroke="url(#accent)" stroke-width="2"/>
-      <text class="lbl" x="940" y="155" font-size="14">AI platform</text>
+      <text class="lbl" x="940" y="155" font-size="14">AI Platform</text>
     </g>
-    <g class="node n1" text-anchor="middle"><rect x="888" y="35" width="104" height="34" rx="9"/><text class="lbl" x="940" y="57">agents</text></g>
+    <g class="node n1" text-anchor="middle"><rect x="888" y="35" width="104" height="34" rx="9"/><text class="lbl" x="940" y="57">Agents</text></g>
     <g class="node n2" text-anchor="middle"><rect x="1038" y="79" width="104" height="34" rx="9"/><text class="lbl" x="1090" y="101">LLMs</text></g>
-    <g class="node n3" text-anchor="middle"><rect x="1038" y="187" width="104" height="34" rx="9"/><text class="lbl" x="1090" y="209">GPUs</text></g>
-    <g class="node n4" text-anchor="middle"><rect x="888" y="231" width="104" height="34" rx="9"/><text class="lbl" x="940" y="253">cloud</text></g>
-    <g class="node n5" text-anchor="middle"><rect x="738" y="187" width="104" height="34" rx="9"/><text class="lbl" x="790" y="209">serverless</text></g>
+    <g class="node n3" text-anchor="middle"><rect x="1038" y="187" width="104" height="34" rx="9"/><text class="lbl" x="1090" y="209">Inference</text></g>
+    <g class="node n4" text-anchor="middle"><rect x="888" y="231" width="104" height="34" rx="9"/><text class="lbl" x="940" y="253">Cloud</text></g>
+    <g class="node n5" text-anchor="middle"><rect x="738" y="187" width="104" height="34" rx="9"/><text class="lbl" x="790" y="209">Serverless</text></g>
     <g class="node n6" text-anchor="middle"><rect x="738" y="79" width="104" height="34" rx="9"/><text class="lbl" x="790" y="101">RAG</text></g>
   </g>
 </svg>
