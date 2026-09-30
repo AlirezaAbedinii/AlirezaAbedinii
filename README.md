@@ -25,18 +25,37 @@
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,bash" alt="Python, JavaScript, Java, C++, Bash" />
+</p>
+
+**ML / DL / LLM**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="PyTorch, TensorFlow, scikit-learn" />
+</p>
+
+**MLOps · Cloud · Observability**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,prometheus,grafana,linux" alt="AWS, Docker, Kubernetes, Ansible, Prometheus, Grafana, Linux" />
+</p>
+
+**Backend · Data · Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis,git,githubactions" alt="FastAPI, Flask, PostgreSQL, Redis, Git, GitHub Actions" />
+</p>
+
+<br>
+
+<!-- ===================== ACTIVITY ===================== -->
+## 📈 Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaAbedinii&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contributions%20over%20the%20last%20month" width="100%" alt="Contribution activity graph" />
 </p>
 
 <br>
