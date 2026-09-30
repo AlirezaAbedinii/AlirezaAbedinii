@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Alireza Abedini, AI Cloud Platform Engineer">
+  <title>Alireza Abedini: AI Cloud Platform Engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f19"/>
+      <stop offset="0.6" stop-color="#101829"/>
+      <stop offset="1" stop-color="#16213a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1d2740" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="18"/></clipPath>
+
+    <path id="e1" d="M940 150 L940 52"/>
+    <path id="e2" d="M940 150 L1090 96"/>
+    <path id="e3" d="M940 150 L1090 204"/>
+    <path id="e4" d="M940 150 L940 248"/>
+    <path id="e5" d="M940 150 L790 204"/>
+    <path id="e6" d="M940 150 L790 96"/>
+  </defs>
+
+  <style>
+    .edge { stroke: #4a5f96; stroke-width: 2; stroke-dasharray: 6 6; animation: flow 1.6s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -24; } }
+
+    .node rect { fill: #121a2d; stroke: #7aa2f7; stroke-width: 1.5; animation: pulse 2.4s ease-in-out infinite; }
+    .n2 rect { animation-delay: .4s; } .n3 rect { animation-delay: .8s; } .n4 rect { animation-delay: 1.2s; }
+    .n5 rect { animation-delay: 1.6s; } .n6 rect { animation-delay: 2s; }
+    @keyframes pulse { 0%,100% { stroke-opacity: .4; } 50% { stroke-opacity: 1; } }
+
+    .lbl { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #c0caf5; }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)" opacity="0.55"/>
+    <circle cx="940" cy="150" r="200" fill="url(#glow)"/>
+    <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="128" font-size="50" font-weight="700" fill="#e6e9f5">Alireza Abedini</text>
+    <text x="66" y="172" font-size="24" font-weight="600" fill="url(#accent)">AI Cloud Platform Engineer</text>
+    <text x="66" y="214" font-size="15.5" fill="#9aa5ce" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">AI infrastructure · cloud platforms · agentic AI<tspan class="cursor" fill="#7aa2f7"> ▍</tspan></text>
+  </g>
+
+  <g>
+    <use href="#e1" class="edge" fill="none"/>
+    <use href="#e2" class="edge" fill="none"/>
+    <use href="#e3" class="edge" fill="none"/>
+    <use href="#e4" class="edge" fill="none"/>
+    <use href="#e5" class="edge" fill="none"/>
+    <use href="#e6" class="edge" fill="none"/>
+
+    <g fill="#bb9af7">
+      <circle r="3.5"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0s"><mpath href="#e1"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="2.4s" repeatCount="indefinite" begin="-0.4s"><mpath href="#e2"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="2.4s" repeatCount="indefinite" begin="-0.8s"><mpath href="#e3"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="2.4s" repeatCount="indefinite" begin="-1.2s"><mpath href="#e4"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="2.4s" repeatCount="indefinite" begin="-1.6s"><mpath href="#e5"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="2.4s" repeatCount="indefinite" begin="-2.0s"><mpath href="#e6"/></animateMotion></circle>
+    </g>
+
+    <g text-anchor="middle">
+      <rect x="872" y="129" width="136" height="42" rx="10" fill="#18223a" stroke="url(#accent)" stroke-width="2"/>
+      <text class="lbl" x="940" y="155" font-size="14">AI Platform</text>
+    </g>
+    <g class="node n1" text-anchor="middle"><rect x="888" y="35" width="104" height="34" rx="9"/><text class="lbl" x="940" y="57">Agents</text></g>
+    <g class="node n2" text-anchor="middle"><rect x="1038" y="79" width="104" height="34" rx="9"/><text class="lbl" x="1090" y="101">LLMs</text></g>
+    <g class="node n3" text-anchor="middle"><rect x="1038" y="187" width="104" height="34" rx="9"/><text class="lbl" x="1090" y="209">Inference</text></g>
+    <g class="node n4" text-anchor="middle"><rect x="888" y="231" width="104" height="34" rx="9"/><text class="lbl" x="940" y="253">Cloud</text></g>
+    <g class="node n5" text-anchor="middle"><rect x="738" y="187" width="104" height="34" rx="9"/><text class="lbl" x="790" y="209">Serverless</text></g>
+    <g class="node n6" text-anchor="middle"><rect x="738" y="79" width="104" height="34" rx="9"/><text class="lbl" x="790" y="101">RAG</text></g>
+  </g>
+</svg>
