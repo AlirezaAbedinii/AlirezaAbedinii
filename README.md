@@ -29,23 +29,23 @@
 
 <p>
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,bash" alt="Python, JavaScript, Java, C++, Bash" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,bash" alt="Python, Java, C++, Bash" />
 </p>
 <p>
   <b>ML / DL / LLM</b><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="PyTorch, TensorFlow, scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
 </p>
 <p>
   <b>Agentic AI</b><br>
-  <img src="assets/agentic-ai.svg" alt="LangGraph, LangChain, OpenAI, Claude, Model Context Protocol, OpenTelemetry, Pydantic" />
+  <img src="assets/agentic-ai.svg" alt="LangGraph, Model Context Protocol, Claude" />
 </p>
 <p>
   <b>MLOps · Cloud · Observability</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,prometheus,grafana,linux" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana, Linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,ansible" alt="AWS, Azure, Docker, Terraform, Ansible" />
 </p>
 <p>
   <b>Backend · Data · Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis,git,githubactions" alt="FastAPI, Flask, PostgreSQL, Redis, Git, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,githubactions" alt="FastAPI, PostgreSQL, GitHub Actions" />
 </p>
 
 ## 🐍 Contributions
