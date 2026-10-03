@@ -10,22 +10,22 @@
 </div>
 
 <!-- ===================== ABOUT ===================== -->
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **M.Sc. Computer Science** from **York University** (Toronto, ON)
-- 🔬 Research Assistant at **[PACS Lab](https://github.com/pacslab)**, building AI platforms and ML systems for the cloud
-- ⚙️ I work at the intersection of **AI infrastructure, cloud platforms, and agentic AI**
+-  **M.Sc. Computer Science** from **York University** (Toronto, ON)
+-  Research Assistant at **[PACS Lab](https://github.com/pacslab)**, building AI platforms and ML systems for the cloud
+-  I work at the intersection of **AI infrastructure, cloud platforms, and agentic AI**
 
-## 🚀 Recent Projects
+##  Recent Projects
 
-- ☁️ **[CAIOS](https://github.com/AlirezaAbedinii/CAIOS)**: Canadian AI Operating System, a private AI platform for research on a multi-node GPU cluster
-- 🤖 **[Groundwork](https://github.com/AlirezaAbedinii/groundwork-agents)**: a grounded multi-agent research assistant built on LangGraph, MCP, and hybrid RAG
+-  **[CAIOS](https://github.com/AlirezaAbedinii/CAIOS)**: Canadian AI Operating System, a private AI platform for research on a multi-node GPU cluster
+-  **[Groundwork](https://github.com/AlirezaAbedinii/groundwork-agents)**: a grounded multi-agent research assistant built on LangGraph, MCP, and hybrid RAG
 
-## 🔭 Research
+##  Research
 
 - **PAMBA**: *Partition-Aware and Multi-SLO Batching for Serverless Inference on Heterogeneous Clouds* ([MPHB-serverless-inference](https://github.com/AlirezaAbedinii/MPHB-serverless-inference))
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
   <b>Languages</b><br>
@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,githubactions" alt="FastAPI, PostgreSQL, GitHub Actions" />
 </p>
 
-## 🐍 Contributions
+##  Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlirezaAbedinii/AlirezaAbedinii/output/github-snake-dark.gif" />
