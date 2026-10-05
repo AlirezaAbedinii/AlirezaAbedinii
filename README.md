@@ -18,7 +18,7 @@
 
 ##  Recent Projects
 
--  **[CAIOS](https://github.com/AlirezaAbedinii/CAIOS)**: Canadian AI Operating System, a private AI platform for research on a multi-node GPU cluster
+-  **[CAIOS](https://github.com/AlirezaAbedinii/CAIOS)**: Canadian AI Operating System, a private AI platform for researchers on a multi-node GPU cluster
 -  **[Groundwork](https://github.com/AlirezaAbedinii/groundwork-agents)**: a grounded multi-agent research assistant built on LangGraph, MCP, and hybrid RAG
 
 ##  Research
