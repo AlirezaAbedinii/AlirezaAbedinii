@@ -23,7 +23,7 @@
 
 ##  Research
 
-- **PAMBA**: *Partition-Aware and Multi-SLO Batching for Serverless Inference on Heterogeneous Clouds* ([MPHB-serverless-inference](https://github.com/AlirezaAbedinii/MPHB-serverless-inference))
+- **PAMBA**: *Partition-Aware and Multi-SLO Batching for Serverless Inference* ([MPHB-serverless-inference](https://github.com/AlirezaAbedinii/MPHB-serverless-inference))
 
 ##  Tech Stack
 
